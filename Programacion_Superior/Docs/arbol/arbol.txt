@@ -1,0 +1,50 @@
+.
+├── arbol.txt
+├── Codigos
+│   ├── Arduino
+│   │   ├── calibrador_balanza
+│   │   │   └── README.MD
+│   │   └── README.md
+│   └── Interfaz
+│       └── README.md
+└── Docs
+    └── placa_pcb
+        ├── imagenesPcb
+        │   ├── placapcbbalanza-B_Mask.gbr
+        │   ├── placapcbbalanza-B_Paste.gbr
+        │   ├── placapcbbalanza-B_Silkscreen.gbr
+        │   ├── placapcbbalanza-Edge_Cuts.gbr
+        │   ├── placapcbbalanza-F_Cu.gbr
+        │   ├── placapcbbalanza-F_Mask.gbr
+        │   ├── placapcbbalanza-F_Paste.gbr
+        │   └── placapcbbalanza-F_Silkscreen.gbr
+        ├── placapcbbalanza
+        │   ├── ~_autosave-_autosave-placapcbbalanza.kicad_pcb.lck
+        │   ├── _autosave-placapcbbalanza.kicad_pcb
+        │   ├── ~_autosave-placapcbbalanza.kicad_pcb.lck
+        │   ├── _autosave-placapcbbalanza.kicad_prl
+        │   ├── balanza.pdf
+        │   ├── caster.prn
+        │   ├── fp-info-cache
+        │   ├── placapcbbalanza-backups
+        │   │   ├── placapcbbalanza-2025-06-01_230758.zip
+        │   │   ├── placapcbbalanza-2025-06-01_231830.zip
+        │   │   ├── placapcbbalanza-2025-06-01_232339.zip
+        │   │   ├── placapcbbalanza-2025-06-01_233624.zip
+        │   │   ├── placapcbbalanza-2025-06-01_235237.zip
+        │   │   ├── placapcbbalanza-2025-06-02_001035.zip
+        │   │   ├── placapcbbalanza-2025-06-02_001802.zip
+        │   │   ├── placapcbbalanza-2025-06-02_003228.zip
+        │   │   └── placapcbbalanza-2025-06-04_010900.zip
+        │   ├── placapcbbalanza.dsn
+        │   ├── placapcbbalanza-job.gbrjob
+        │   ├── placapcbbalanza.kicad_pcb
+        │   ├── placapcbbalanza.kicad_prl
+        │   ├── placapcbbalanza.kicad_pro
+        │   ├── placapcbbalanza.kicad_sch
+        │   ├── placapcbbalanza.kicad_sch-bak
+        │   ├── ~placapcbbalanza.kicad_sch.lck
+        │   └── report.txt
+        └── README.md
+
+9 directories, 38 files
