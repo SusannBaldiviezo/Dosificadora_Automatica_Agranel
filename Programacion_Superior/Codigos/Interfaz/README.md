@@ -1,2 +1,1 @@
-escribir aqui
-s
+Este código es un servidor web desarrollado con FastAPI para controlar una balanza automática con Arduino. Se conecta por el puerto serie (COM6 a 115200 baudios), lee datos del peso y controla comandos como iniciar dispensación, hacer tara, cambiar el umbral de peso y reiniciar el sistema. Presenta una interfaz HTML en tiempo real que muestra el estado actual, historial de dispensaciones y botones interactivos que envían comandos al Arduino. El sistema gestiona reconexión automática si se pierde la conexión serial, registra los pesos dispensados y calcula el total restante. Todo se ejecuta en segundo plano con hilos para mantener la comunicación constante sin bloquear la aplicación web.
