@@ -11,7 +11,7 @@ from datetime import datetime
 app = FastAPI()
 
 # Configuración
-PORT = "COM6"
+PORT = "/dev/ttyUSB0" #COM3 (Dependiendo si se ejecuta desde Windows o Linux)
 BAUD_RATE = 115200
 RECONNECT_INTERVAL = 5
 
